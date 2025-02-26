@@ -2,6 +2,8 @@
 
 This README provides instructions for implementing authentication in your SwiftUI application using Firebase Authentication with Apple, Google, and Email/Password sign-in methods.
 
+Using [SwiftfulAuthenticating](https://github.com/SwiftfulThinking/SwiftfulAuthenticating) and [SwiftfulAuthenticatingFirebase](https://github.com/SwiftfulThinking/SwiftfulAuthenticatingFirebase).
+
 ## Requirements
 
 - Xcode (latest version recommended)

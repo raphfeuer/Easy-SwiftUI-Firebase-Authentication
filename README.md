@@ -1,4 +1,4 @@
-# Easy-SwiftUI-Firebase-Authentication
+# Easy SwiftUI Firebase Authentication
 
 This README provides instructions for implementing authentication in your SwiftUI application using Firebase Authentication with Apple, Google, and Email/Password sign-in methods.
 
